@@ -1,0 +1,31 @@
+settings =
+{
+        orientation =
+        {
+                default = "portrait",
+                content = "portrait",
+                supported =
+                {
+                    "portrait"
+                },
+        },
+ 
+        iphone =
+        {
+                plist =
+                {
+                        UIPrerenderedIcon = true,
+                        UIAppFonts =
+                        {
+                            "FFF_Tusj.ttf",
+                            "BEBAS___.ttf",
+                            "EIGH3___.ttf",
+                            "LuckiestGuy.ttf",
+                            "Knewave-Regular.ttf",
+                            "varsity_regular.ttf",
+                            "Urban.ttf",
+                            
+                        },
+                },
+        }
+}
